@@ -1,0 +1,14 @@
+C:\Users\Elvinfx\Desktop\Updated-Spoofer-main\GithubSpoofer-V2\bin\Debug\GithubSpoofer-V2.exe.config
+C:\Users\Elvinfx\Desktop\Updated-Spoofer-main\GithubSpoofer-V2\bin\Debug\GithubSpoofer-V2.exe
+C:\Users\Elvinfx\Desktop\Updated-Spoofer-main\GithubSpoofer-V2\bin\Debug\GithubSpoofer-V2.pdb
+C:\Users\Elvinfx\Desktop\Updated-Spoofer-main\GithubSpoofer-V2\obj\Debug\GithubSpoofer-V2.csproj.AssemblyReference.cache
+C:\Users\Elvinfx\Desktop\Updated-Spoofer-main\GithubSpoofer-V2\obj\Debug\GithubSpoofer-V2.csproj.CoreCompileInputs.cache
+C:\Users\Elvinfx\Desktop\Updated-Spoofer-main\GithubSpoofer-V2\obj\Debug\GithubSpoofer-V2.exe
+C:\Users\Elvinfx\Desktop\Updated-Spoofer-main\GithubSpoofer-V2\obj\Debug\GithubSpoofer-V2.pdb
+C:\Users\Elvinfx\Desktop\spoofer\GithubSpoofer-V2\bin\Debug\GithubSpoofer-V2.exe.config
+C:\Users\Elvinfx\Desktop\spoofer\GithubSpoofer-V2\bin\Debug\GithubSpoofer-V2.exe
+C:\Users\Elvinfx\Desktop\spoofer\GithubSpoofer-V2\bin\Debug\GithubSpoofer-V2.pdb
+C:\Users\Elvinfx\Desktop\spoofer\GithubSpoofer-V2\obj\Debug\GithubSpoofer-V2.csproj.AssemblyReference.cache
+C:\Users\Elvinfx\Desktop\spoofer\GithubSpoofer-V2\obj\Debug\GithubSpoofer-V2.csproj.CoreCompileInputs.cache
+C:\Users\Elvinfx\Desktop\spoofer\GithubSpoofer-V2\obj\Debug\GithubSpoofer-V2.exe
+C:\Users\Elvinfx\Desktop\spoofer\GithubSpoofer-V2\obj\Debug\GithubSpoofer-V2.pdb
